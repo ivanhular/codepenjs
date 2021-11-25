@@ -1,0 +1,4 @@
+action types / constanst
+action types interface -> payload types
+action Creators
+Reducers

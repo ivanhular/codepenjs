@@ -1,0 +1,37 @@
+Videos
+42/200 - useTypeSelector
+39/231 - useActions
+68 - bundling
+91 - tricking css / faking index.js
+
+CRA
+npx create-react-app appName --template typescript
+
+Initialize tsconfig.json
+tsc --init - if install globally
+npx typescript --init - if not typescript installed globally
+
+--preserveWatchOutput - if recompile doest not clear console
+
+
+Learna
+learna init 
+
+
+Javascript Module Systems
+AMD - define
+Common JS - require
+ES Modules - import
+
+
+Bundler
+webpack
+esbuild
+-Read the contents of the entry file(index.js)
+-Automatically Found all the different require/import/export satements
+-Automatically found all the module on our hard drives (locally installed modules from hard drive)
+-linked these files together into a single ouput file with all values being correctly communicate around
+
+
+NPM
+npm view react dist.tarball - return a link that contains the source code
